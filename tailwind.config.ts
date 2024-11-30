@@ -12,6 +12,12 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      maxWidth: {
+        'iphone-14':'390px'
+      },
+      maxHeight:{
+        'iphone-14': '844x'
+      }
     },
   },
   plugins: [],
