@@ -49,7 +49,7 @@ const Order: React.FC<EnhancedOrderProps> = (props) => {
                         </button>
                     </div>
                 </div>
-                <div>
+                <div className='font-normal'>
                     ${total}
                 </div>
             </div>
